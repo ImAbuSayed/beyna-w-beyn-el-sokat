@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بينا وبين السكوت حكاية
+> نار وشوق ملوش نهاية
+> نظرة عيونك سحر المكان
+> نبضك لقلبي بر الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
