@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/beyna-w-beyn-el-sokat/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Beyna W Beyn El Sokat](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
